@@ -59,6 +59,7 @@ const cor3 = prompt('qual a sua cor favorita?')
  let coresfavoritas = [cor1, cor2, cor3]
  console.log (coresfavoritas)
  
+ 
 }
 
 // EXERCÍCIO 06
